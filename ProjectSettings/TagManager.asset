@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: UnderTile
+    uniqueID: 708900093
+    locked: 0
+  - name: Ruin
+    uniqueID: 2312193491
+    locked: 0
+  - name: Ghost
+    uniqueID: 3132388699
+    locked: 0
+  - name: UI
+    uniqueID: 1197941883
+    locked: 0

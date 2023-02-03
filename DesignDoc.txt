@@ -1,0 +1,60 @@
+LIVING
+
+Generates Ruined Foundation
+
+Sheriff's Office (1 Stone, 1 Lumber, 1 Settler)
+	Collect 1 Coin from all Saloons, and all Saloons collect again
+Church (1 Lumber, 2 Stone, 1 Settler)
+	Place 3 Graveyards up to 1 tile away, gain 1 coin for each
+Bakery (2 Ghost Brick, 1 Ghost Settler)
+	All Ghost Wheat within 2 tiles generate 1 coin
+
+
+Generates Ruined Walls : 
+
+Farmhouse (2 Lumber)
+	Generates 1 Settler, place 2 pasture 2 tiles away
+Lumbermill (1 Lumber, 1 Settler)
+	Generates 1 Lumber, plant 3 trees
+
+
+Generates Ruined Fence :
+
+Pasture (1 Ghost Lumber)
+	Generates a Ghost Cattle
+Mine (3 Lumber)
+	Generates 1 Stone, place 3 rubble piles
+Watertower (1 Lumber)
+	
+
+-------------------------------------------------------
+
+GHOST
+Ruined Foundation :
+
+Sheriff's Office (1 Ghost Stone, 1 Ghost Lumber, 1 Ghost Settler)
+	Collect 1 Coin from all Saloons, and all Saloons collect again
+Clocktower (2 Ghost Stone, 2 Ghost Lumber)
+	All buildings within 2 collect again, place one RUIN
+Bakery (2 Ghost Stone, 1 Ghost Settler)
+	All Ghost Wheat within 2 tiles generate 1 coin
+
+
+Ruined Walls : 
+
+Farmhouse (2 Ghost Lumber, 1 Ghost Settler)
+	All empty tiles within 1 become Ghost Wheat
+Lumbermill (2 Ghost Lumber, 1 Ghost Stone)
+	All dead trees within 1 become Ghost Trees (each gain 2 Ghost Lumber)
+Saloon (1 Ghost Lumber, 2 Ghost Settler)
+	All Ghost Cattle within 1 generate 1 coin
+
+
+Ruined Fence :
+
+Pasture (1 Ghost Lumber)
+	Generates a Ghost Cattle
+Mine (1 Ghost Lumber, 2 Ghost Stone)
+	All rubble piles within 2 become Ghost Rocks (each Gain 1 Ghost Stone)
+Undertaker (1 Ghost Lumber, 1 Ghost Settler)
+	Collects a Ghost Settler from all graveyards within 1
